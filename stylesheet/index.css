@@ -1,3 +1,4 @@
+
 body {
 	background: #15202b !important;
 	color: white !important;
@@ -150,6 +151,7 @@ body {
 	margin-left: 2em;
 }
 
+<<<<<<< HEAD
 .post span {
 	font-size: 16px;
 	color: white;
@@ -170,3 +172,5 @@ body {
 	border-radius: 10px;
 	width: 80%;
 }
+=======
+>>>>>>> 05ad925c1db0712890fd6bc88a644d83c415b96c
